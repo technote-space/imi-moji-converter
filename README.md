@@ -17,15 +17,13 @@
 <details>
 <summary>Details</summary>
 
-- [IMI 全角半角統一コンポーネント](#imi-%E5%85%A8%E8%A7%92%E5%8D%8A%E8%A7%92%E7%B5%B1%E4%B8%80%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88)
-  - [Table of Contents](#table-of-contents)
-  - [利用者向け情報](#%E5%88%A9%E7%94%A8%E8%80%85%E5%90%91%E3%81%91%E6%83%85%E5%A0%B1)
-    - [インストール](#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
-  - [API](#api)
-    - [toHalfWidth(string)](#tohalfwidthstring)
-    - [toFullWidth(string)](#tofullwidthstring)
-  - [使用例](#%E4%BD%BF%E7%94%A8%E4%BE%8B)
-  - [Author](#author)
+- [利用者向け情報](#%E5%88%A9%E7%94%A8%E8%80%85%E5%90%91%E3%81%91%E6%83%85%E5%A0%B1)
+  - [インストール](#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+- [API](#api)
+  - [toHalfWidth(string)](#tohalfwidthstring)
+  - [toFullWidth(string)](#tofullwidthstring)
+- [使用例](#%E4%BD%BF%E7%94%A8%E4%BE%8B)
+- [Author](#author)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
