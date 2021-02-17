@@ -12,8 +12,21 @@
 
 ## Table of Contents
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Details</summary>
+
+- [利用者向け情報](#%E5%88%A9%E7%94%A8%E8%80%85%E5%90%91%E3%81%91%E6%83%85%E5%A0%B1)
+  - [インストール](#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+- [API](#api)
+  - [toHalfWidth(string)](#tohalfwidthstring)
+  - [toFullWidth(string)](#tofullwidthstring)
+- [使用例](#%E4%BD%BF%E7%94%A8%E4%BE%8B)
+- [Author](#author)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 利用者向け情報
 
