@@ -1,6 +1,6 @@
 {
   "name": "@technote-space/imi-moji-converter",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "IMI 全角半角統一コンポーネント",
   "keywords": [
     "imi"
